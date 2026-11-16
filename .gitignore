@@ -1,0 +1,12 @@
+# Engine-generated type artifacts (regenerated on each session load)
+.claude-plugin/types/
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Node cruft (not used but harmless)
+node_modules/
+*.log

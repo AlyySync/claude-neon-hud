@@ -1,0 +1,6 @@
+{
+  "name": "neon-hud",
+  "version": "0.1.0",
+  "description": "Sci-fi HUD for Claude Code: band, telemetry pane, tool-call chrome, toasts.",
+  "types": "./types/index.d.ts"
+}
